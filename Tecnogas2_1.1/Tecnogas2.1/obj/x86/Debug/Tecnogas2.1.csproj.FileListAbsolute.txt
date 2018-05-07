@@ -1,0 +1,23 @@
+c:\users\mati\documents\visual studio 2010\Projects\Tecnogas2.1\Tecnogas2.1\bin\Debug\Tecnogas2.1.exe.config
+c:\users\mati\documents\visual studio 2010\Projects\Tecnogas2.1\Tecnogas2.1\bin\Debug\Tecnogas2.1.exe
+c:\users\mati\documents\visual studio 2010\Projects\Tecnogas2.1\Tecnogas2.1\bin\Debug\Tecnogas2.1.pdb
+c:\users\mati\documents\visual studio 2010\Projects\Tecnogas2.1\Tecnogas2.1\obj\x86\Debug\Tecnogas2._1.Properties.Resources.resources
+c:\users\mati\documents\visual studio 2010\Projects\Tecnogas2.1\Tecnogas2.1\obj\x86\Debug\Tecnogas2.1.csproj.GenerateResource.Cache
+c:\users\mati\documents\visual studio 2010\Projects\Tecnogas2.1\Tecnogas2.1\obj\x86\Debug\Tecnogas2.1.exe
+c:\users\mati\documents\visual studio 2010\Projects\Tecnogas2.1\Tecnogas2.1\obj\x86\Debug\Tecnogas2.1.pdb
+c:\users\mati\documents\visual studio 2010\Projects\Tecnogas2.1\Tecnogas2.1\obj\x86\Debug\Tecnogas2._1.Login.resources
+C:\Users\matia_000\Desktop\Tecnogas2.1\Tecnogas2.1\obj\x86\Debug\Tecnogas2._1.Login.resources
+C:\Users\matia_000\Desktop\Tecnogas2.1\Tecnogas2.1\obj\x86\Debug\Tecnogas2._1.Properties.Resources.resources
+C:\Users\matia_000\Desktop\Tecnogas2.1\Tecnogas2.1\obj\x86\Debug\Tecnogas2.1.csproj.GenerateResource.Cache
+C:\Users\matia_000\Desktop\Tecnogas2.1\Tecnogas2.1\obj\x86\Debug\RdlCompile.cache
+C:\Users\matia_000\Desktop\Tecnogas2.1\Tecnogas2.1\obj\x86\Debug\RdlCompile.compiled
+C:\Users\matia_000\Desktop\Tecnogas2.1\Tecnogas2.1\bin\Debug\Tecnogas2.1.exe.config
+C:\Users\matia_000\Desktop\Tecnogas2.1\Tecnogas2.1\bin\Debug\Tecnogas2.1.exe
+C:\Users\matia_000\Desktop\Tecnogas2.1\Tecnogas2.1\bin\Debug\Tecnogas2.1.pdb
+C:\Users\matia_000\Desktop\Tecnogas2.1\Tecnogas2.1\obj\x86\Debug\Tecnogas2.1.exe
+C:\Users\matia_000\Desktop\Tecnogas2.1\Tecnogas2.1\obj\x86\Debug\Tecnogas2.1.pdb
+C:\Users\matia_000\Desktop\Tecnogas2.1\Tecnogas2.1\obj\x86\Debug\Tecnogas2._1.Detalles.resources
+C:\Users\matia_000\Desktop\Tecnogas2.1\Tecnogas2.1\obj\x86\Debug\Tecnogas2._1.Menu.resources
+C:\Users\matia_000\Desktop\Tecnogas2.1\Tecnogas2.1\obj\x86\Debug\Tecnogas2._1.TablaStock.resources
+C:\Users\matia_000\Desktop\Tecnogas2.1\Tecnogas2.1\obj\x86\Debug\Tecnogas2._1.Cajero.resources
+C:\Users\matia_000\Desktop\Tecnogas2.1\Tecnogas2.1\obj\x86\Debug\Tecnogas2.1.csprojResolveAssemblyReference.cache
